@@ -106,3 +106,25 @@ p, h1, h2, h3, h4, h5, h6, li, a {
     color: #F8F9FA;
     font-size: 16px;
 }
+
+.back_action{
+    display: flex;
+    margin-top: 20px;
+}
+
+.back_action a{
+    width: fit-content;
+    display: flex;
+    text-decoration: none;
+}
+
+.back_action svg {
+    width: fit-content;
+    margin-left: 18px;
+}
+
+.back_action p {
+    font-size: 16px;
+    margin-left: 5px;
+    color: black;
+}
