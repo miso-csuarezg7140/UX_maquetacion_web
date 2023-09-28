@@ -109,7 +109,7 @@ p, h1, h2, h3, h4, h5, h6, li, a {
 }
 
 .collections_section--row {
-    width: 100%;
+    width: fit-content;
     display: flex;
     margin-left: 48px;
     margin-top: 35px;
